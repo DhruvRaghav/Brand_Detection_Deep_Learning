@@ -39,6 +39,7 @@ The data for this project was sourced from three distinct repositories. Firstly,
 
 Secondly, we integrated the 'Flickr Logos 27' dataset, sourced from annotated logos extracted from Flickr. This dataset comprises more than 4,000 images in total and encompasses 27 annotated classes.
 [Flickr Logos 27 Link](http://image.ntua.gr/iva/datasets/flickr_logos/)
+
 Additionally, we curated a set of images from Google's Street View, which were subsequently manually annotated using the VGG Annotator tool. This dataset predominantly comprises images of lower quality, reflecting real-world scenarios where logo recognition remains challenging. For a glimpse into some of the images we collected, please refer to the below provided link.
 [Test images Link](https://your-link-here.com)
 
